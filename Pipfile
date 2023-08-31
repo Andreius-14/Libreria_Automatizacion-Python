@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pyautogui = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 ipykernel = "*"
