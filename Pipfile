@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pyautogui = "*"
 beautifulsoup4 = "*"
+colorama = "*"
 
 [dev-packages]
 ipykernel = "*"
